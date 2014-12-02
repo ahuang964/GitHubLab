@@ -17,6 +17,14 @@ namespace Exercise3_1
             string e = "The quick brown fox jumped over the lazy dogs";
 
             Console.WriteLine("int: {0}\nfloat: {1}\ndouble: {2}\nchar: {3}\nstring: {4}", a, b, c, d, e);
+
+            a = 25;
+            b = (float)100.3;
+            c = 98765.4321;
+            d = 'M';
+            e = "A quick movement of the enemy will jeoardize dix gun boats";
+            Console.WriteLine("int: {0}\nfloat: {1}\ndouble: {2}\nchar: {3}\nstring: {4}", a, b, c, d, e);
+
         }
     }
 }
