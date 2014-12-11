@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercise8_3
+namespace Exercise8_3And8_4
 {
     class Tester
     {
