@@ -1,0 +1,5 @@
+D:\Alan\Lab\HelloWorld\Exercise9-1\bin\Debug\Exercise9-1.exe.config
+D:\Alan\Lab\HelloWorld\Exercise9-1\bin\Debug\Exercise9-1.exe
+D:\Alan\Lab\HelloWorld\Exercise9-1\bin\Debug\Exercise9-1.pdb
+D:\Alan\Lab\HelloWorld\Exercise9-1\obj\Debug\Exercise9-1.exe
+D:\Alan\Lab\HelloWorld\Exercise9-1\obj\Debug\Exercise9-1.pdb

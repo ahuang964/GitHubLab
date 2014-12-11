@@ -1,5 +1,4 @@
 D:\Alan\Lab\HelloWorld\Challenge1\bin\Debug\Challenge1.exe.config
-D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.Form1.resources
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.Properties.Resources.resources
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.csproj.GenerateResource.Cache

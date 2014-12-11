@@ -14,7 +14,7 @@ namespace Exercise3_3
             
             Console.WriteLine("PI: {0}", Pi);
 
-            Pi = 3.1;
+            //Pi = 3.1;
         }
     }
 }
