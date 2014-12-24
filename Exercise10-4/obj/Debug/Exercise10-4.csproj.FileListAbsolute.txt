@@ -1,5 +1,4 @@
 D:\Alan\Lab\HelloWorld\Exercise10-4\bin\Debug\Exercise10-4.exe.config
-D:\Alan\Lab\HelloWorld\Exercise10-4\obj\Debug\Exercise10-4.csprojResolveAssemblyReference.cache
 D:\Alan\Lab\HelloWorld\Exercise10-4\bin\Debug\Exercise10-4.exe
 D:\Alan\Lab\HelloWorld\Exercise10-4\bin\Debug\Exercise10-4.pdb
 D:\Alan\Lab\HelloWorld\Exercise10-4\obj\Debug\Exercise10-4.exe
