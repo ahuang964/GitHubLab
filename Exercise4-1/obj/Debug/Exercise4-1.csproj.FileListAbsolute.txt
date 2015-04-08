@@ -3,4 +3,3 @@ D:\Alan\Lab\HelloWorld\Exercise4-1\bin\Debug\Exercise4-1.exe
 D:\Alan\Lab\HelloWorld\Exercise4-1\bin\Debug\Exercise4-1.pdb
 D:\Alan\Lab\HelloWorld\Exercise4-1\obj\Debug\Exercise4-1.exe
 D:\Alan\Lab\HelloWorld\Exercise4-1\obj\Debug\Exercise4-1.pdb
-D:\Alan\Lab\HelloWorld\Exercise4-1\obj\Debug\Exercise4-1.csprojResolveAssemblyReference.cache

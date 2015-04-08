@@ -3,3 +3,4 @@ D:\Alan\Lab\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 D:\Alan\Lab\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 D:\Alan\Lab\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\Alan\Lab\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Alan\Lab\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
