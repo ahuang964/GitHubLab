@@ -1,0 +1,6 @@
+D:\Alan\Lab\HelloWorld\Exercise15_3\bin\Debug\Exercise15_3.exe.config
+D:\Alan\Lab\HelloWorld\Exercise15_3\bin\Debug\Exercise15_3.exe
+D:\Alan\Lab\HelloWorld\Exercise15_3\bin\Debug\Exercise15_3.pdb
+D:\Alan\Lab\HelloWorld\Exercise15_3\obj\Debug\Exercise15_3.csprojResolveAssemblyReference.cache
+D:\Alan\Lab\HelloWorld\Exercise15_3\obj\Debug\Exercise15_3.exe
+D:\Alan\Lab\HelloWorld\Exercise15_3\obj\Debug\Exercise15_3.pdb
