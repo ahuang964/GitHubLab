@@ -1,6 +1,5 @@
 D:\Alan\Lab\HelloWorld\Exercise16_4\bin\Debug\Exercise16_4.exe.config
 D:\Alan\Lab\HelloWorld\Exercise16_4\bin\Debug\Exercise16_4.exe
 D:\Alan\Lab\HelloWorld\Exercise16_4\bin\Debug\Exercise16_4.pdb
-D:\Alan\Lab\HelloWorld\Exercise16_4\obj\Debug\Exercise16_4.csprojResolveAssemblyReference.cache
 D:\Alan\Lab\HelloWorld\Exercise16_4\obj\Debug\Exercise16_4.exe
 D:\Alan\Lab\HelloWorld\Exercise16_4\obj\Debug\Exercise16_4.pdb
