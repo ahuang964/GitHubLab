@@ -7,3 +7,5 @@ D:\Alan\Lab\HelloWorld\Challenge1\bin\Debug\Challenge1.pdb
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.exe
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.pdb
 D:\Alan\Lab\HelloWorld\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
+D:\Alan\Lab\HelloWorld\Challenge1\bin\Debug\Challenge1.exe.CodeAnalysisLog.xml
+D:\Alan\Lab\HelloWorld\Challenge1\bin\Debug\Challenge1.exe.lastcodeanalysissucceeded

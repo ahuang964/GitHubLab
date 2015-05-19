@@ -3,3 +3,5 @@ D:\Alan\Lab\HelloWorld\Challenge2\bin\Debug\Challenge2.exe
 D:\Alan\Lab\HelloWorld\Challenge2\bin\Debug\Challenge2.pdb
 D:\Alan\Lab\HelloWorld\Challenge2\obj\Debug\Challenge2.exe
 D:\Alan\Lab\HelloWorld\Challenge2\obj\Debug\Challenge2.pdb
+D:\Alan\Lab\HelloWorld\Challenge2\bin\Debug\Challenge2.exe.CodeAnalysisLog.xml
+D:\Alan\Lab\HelloWorld\Challenge2\bin\Debug\Challenge2.exe.lastcodeanalysissucceeded

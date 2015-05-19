@@ -1,0 +1,9 @@
+D:\Alan\Lab\HelloWorld\Exercise18_2\bin\Debug\Exercise18_2.exe.config
+D:\Alan\Lab\HelloWorld\Exercise18_2\bin\Debug\Exercise18_2.exe
+D:\Alan\Lab\HelloWorld\Exercise18_2\bin\Debug\Exercise18_2.pdb
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.Form1.resources
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.Properties.Resources.resources
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.csproj.GenerateResource.Cache
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.exe
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.pdb
+D:\Alan\Lab\HelloWorld\Exercise18_2\obj\Debug\Exercise18_2.csprojResolveAssemblyReference.cache

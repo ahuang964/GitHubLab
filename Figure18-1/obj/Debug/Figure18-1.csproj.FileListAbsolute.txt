@@ -1,0 +1,9 @@
+D:\Alan\Lab\HelloWorld\Figure18-1\bin\Debug\Figure18-1.exe.config
+D:\Alan\Lab\HelloWorld\Figure18-1\bin\Debug\Figure18-1.exe
+D:\Alan\Lab\HelloWorld\Figure18-1\bin\Debug\Figure18-1.pdb
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18-1.csprojResolveAssemblyReference.cache
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18_1.Form1.resources
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18_1.Properties.Resources.resources
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18-1.csproj.GenerateResource.Cache
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18-1.exe
+D:\Alan\Lab\HelloWorld\Figure18-1\obj\Debug\Figure18-1.pdb

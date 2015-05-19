@@ -3,3 +3,5 @@ D:\Alan\Lab\HelloWorld\Exercise15_4\bin\Debug\Exercise15_4.exe
 D:\Alan\Lab\HelloWorld\Exercise15_4\bin\Debug\Exercise15_4.pdb
 D:\Alan\Lab\HelloWorld\Exercise15_4\obj\Debug\Exercise15_4.exe
 D:\Alan\Lab\HelloWorld\Exercise15_4\obj\Debug\Exercise15_4.pdb
+D:\Alan\Lab\HelloWorld\Exercise15_4\bin\Debug\Exercise15_4.exe.CodeAnalysisLog.xml
+D:\Alan\Lab\HelloWorld\Exercise15_4\bin\Debug\Exercise15_4.exe.lastcodeanalysissucceeded

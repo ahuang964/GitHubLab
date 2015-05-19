@@ -1,0 +1,9 @@
+D:\Alan\Lab\HelloWorld\Figure18-6\bin\Debug\Figure18-6.exe.config
+D:\Alan\Lab\HelloWorld\Figure18-6\bin\Debug\Figure18-6.exe
+D:\Alan\Lab\HelloWorld\Figure18-6\bin\Debug\Figure18-6.pdb
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18-6FileCopier.csprojResolveAssemblyReference.cache
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18_6.FrmFileCopier.resources
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18_6.Properties.Resources.resources
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18-6FileCopier.csproj.GenerateResource.Cache
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18-6.exe
+D:\Alan\Lab\HelloWorld\Figure18-6\obj\Debug\Figure18-6.pdb

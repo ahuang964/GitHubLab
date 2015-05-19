@@ -4,3 +4,5 @@ D:\Alan\Lab\HelloWorld\Exercise3-4\bin\Debug\Exercise3-4.pdb
 D:\Alan\Lab\HelloWorld\Exercise3-4\obj\Debug\Exercise3-4.exe
 D:\Alan\Lab\HelloWorld\Exercise3-4\obj\Debug\Exercise3-4.pdb
 D:\Alan\Lab\HelloWorld\Exercise3-4\obj\Debug\Exercise3-4.csprojResolveAssemblyReference.cache
+D:\Alan\Lab\HelloWorld\Exercise3-4\bin\Debug\Exercise3-4.exe.CodeAnalysisLog.xml
+D:\Alan\Lab\HelloWorld\Exercise3-4\bin\Debug\Exercise3-4.exe.lastcodeanalysissucceeded
