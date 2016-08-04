@@ -10,7 +10,7 @@ namespace Exercise1_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What a great book!")
+            Console.WriteLine("What a great book!");
             Console.ReadKey();
         }
     }
